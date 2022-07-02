@@ -40,5 +40,4 @@
     Radix
     Streamr
     Taraxa
-    
-[Kujira](https://kujira.explorers.guru/validator/kujiravaloper1w6me5d32gvkjd566g92gqxdtjy6kj6uepvqpft)
+    Kujira
