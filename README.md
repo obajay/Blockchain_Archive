@@ -4,7 +4,7 @@
 # Projects that we have finished testing and are now archived. If necessary - we provide all links and explorers.
 
 ## Archive:
-     VEGA
+    VEGA
     Stratos
     Spacemesh
     Rizon
