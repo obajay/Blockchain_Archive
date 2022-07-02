@@ -8,7 +8,7 @@
     Stratos
     Spacemesh
     Rizon
-     Juno
+    Juno
     Fluxprotocol
     Bee_swarm
     Aleo
