@@ -41,3 +41,5 @@
     Streamr
     Taraxa
     Kujira
+    IDEP
+    AsetMantle
