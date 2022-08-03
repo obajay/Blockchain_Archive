@@ -11,7 +11,6 @@
     Juno
     Fluxprotocol
     Bee_swarm
-    Aleo
     Clover
     Anoma
     Archway
@@ -35,7 +34,6 @@
     pontem network
     Porta
     Presearch
-    Quai
     Radicle
     Radix
     Streamr
@@ -44,6 +42,5 @@
     IDEP
     AsetMantle
     QuickSilver
-    Aptos
     Stafi
     
