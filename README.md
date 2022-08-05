@@ -4,6 +4,7 @@
 # Projects that we have finished testing and are now archived. If necessary - we provide all links and explorers.
 
 ## Archive:
+```console
     VEGA
     Stratos
     Spacemesh
@@ -44,4 +45,4 @@
     QuickSilver
     Stafi
     Another-1
-    
+```
