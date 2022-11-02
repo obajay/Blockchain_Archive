@@ -4,45 +4,50 @@
 # Projects that we have finished testing and are now archived. If necessary - we provide all links and explorers.
 
 ## Archive:
-```console
-    VEGA
-    Stratos
-    Spacemesh
-    Rizon
-    Juno
-    Fluxprotocol
-    Bee_swarm
-    Clover
-    Anoma
-    Archway
-    BitCountry
-    SSV
-    Epik Protocol
-    Evmos
-    Gravity Bridge
-    UMEE
-    NYM
-    Agoric
-    HOPR
-    Idena
-    Kira network
-    Meson Network
-    Meter
-    MinaProtocol
-    moonbeam
-    ODIN
-    Omniflix
-    pontem network
-    Porta
-    Presearch
-    Radicle
-    Radix
-    Streamr
-    Taraxa
-    Kujira
-    IDEP
-    AsetMantle
-    QuickSilver
-    Stafi
-    Another-1
-```
+- [VEGA](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Stratos](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Spacemesh](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Rizon](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Juno](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Fluxprotocol](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Bee_swarm](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Clover](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Anoma](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Archway](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [BitCountry](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [SSV](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Epik Protocol](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Evmos](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Gravity Bridge](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [UMEE](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [NYM](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Agoric](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [HOPR](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Idena](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Kira network](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Meson Network](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Meter](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [MinaProtocol](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [moonbeam](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [ODIN](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Omniflix](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [pontem network](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Porta](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Presearch](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Radicle](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Radix](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Streamr](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Taraxa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Kujira](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [IDEP](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [AssetMantle](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [QuickSilver](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Stafi](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Another-1](https://test-anone.zenscan.io/validator.php?addr=onevaloper13nlxz82s78xkf803ygc4yclg9cc6we6aw60079)
+- [Zeitgeist](https://telemetry.polkadot.io/#list/0xb90cd3a37b4793c6494b78962986f4f6ed3ec2eda91a6b84fd8457d24f606b9c)
+- [Rebus](https://exp.nodeist.net/Rebus/staking/rebusvaloper10xdxa2xhrcwnkm0lfaxlx6mjhc9dat5u5kvr6x)
+- [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn)
+- [Aptos](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Obol](https://prater.beaconcha.in/validator/a885dc062876b52fd966aab9d4b81735a1f78986d0540d9edbf8bad0d1fdd4d1427598f5d6971a701f67bd7971c403c3#attestations)
+- [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+
