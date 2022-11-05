@@ -50,4 +50,4 @@
 - [Aptos](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Obol](https://prater.beaconcha.in/validator/a885dc062876b52fd966aab9d4b81735a1f78986d0540d9edbf8bad0d1fdd4d1427598f5d6971a701f67bd7971c403c3#attestations)
 - [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-
+- [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj)
