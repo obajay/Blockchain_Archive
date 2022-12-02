@@ -52,4 +52,7 @@
 - [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj)
 - [Humanode](https://github.com/obajay)
+- [Neutron](https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1y535ugclzdhlyjd6wchl35eljvx5y9z24duqy3)
+- [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
+- [DWS](https://explorer.stavr.tech/dws/staking/dewebvaloper1jmxnrfmart0ksvj2exm3q0xnrczuqtvpmu4953)
 
