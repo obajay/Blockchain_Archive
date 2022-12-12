@@ -55,4 +55,4 @@
 - [Neutron](https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1y535ugclzdhlyjd6wchl35eljvx5y9z24duqy3)
 - [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 - [DWS](https://explorer.stavr.tech/dws/staking/dewebvaloper1jmxnrfmart0ksvj2exm3q0xnrczuqtvpmu4953)
-
+- [Pylons](https://explorer.stavr.tech/pylons/staking/pylovaloper16sttxsupvxyv8g2m8xejntxw4eukqqt77tflhh)
