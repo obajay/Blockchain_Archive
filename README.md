@@ -41,7 +41,6 @@
 - [Kujira](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [IDEP](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [AssetMantle](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-- [QuickSilver](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Stafi](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Another-1](https://test-anone.zenscan.io/validator.php?addr=onevaloper13nlxz82s78xkf803ygc4yclg9cc6we6aw60079)
 - [Zeitgeist](https://telemetry.polkadot.io/#list/0xb90cd3a37b4793c6494b78962986f4f6ed3ec2eda91a6b84fd8457d24f606b9c)
