@@ -66,4 +66,4 @@
 - [Ollo](https://explorer.stavr.tech/ollo/staking/ollovaloper1hfsguqknteazy28ms9nm633yyf9tg4uz2gfr6a)
 - [Nolus](https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1gqtd7nm09lyu8ql4m8r0ck4md7zdq2c76h5p49)
 - [SGE](https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1g3a72tlm6v25y58pjy8x07far4hqj7cgxl3n9z)
-
+- [Clan network](https://explorer.stavr.tech/clannetwork/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)  
