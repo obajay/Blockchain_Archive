@@ -68,5 +68,5 @@
 - [SGE](https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1g3a72tlm6v25y58pjy8x07far4hqj7cgxl3n9z)
 - [Clan network](https://explorer.stavr.tech/clannetwork/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)  
 - [Sei](https://explorer.stavr.tech/sei/staking/seivaloper1u3rszcv0zjdj5cuw22cwe3955xk7zjjjex9t3u)  
-
+- [Coreum](https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1p0gg6tuzgmw7lylwlg5l9hda3pj5whhcryxwwq)
 
