@@ -69,4 +69,6 @@
 - [Clan network](https://explorer.stavr.tech/clannetwork/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)  
 - [Sei](https://explorer.stavr.tech/sei/staking/seivaloper1u3rszcv0zjdj5cuw22cwe3955xk7zjjjex9t3u)  
 - [Coreum](https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1p0gg6tuzgmw7lylwlg5l9hda3pj5whhcryxwwq)
+- [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
+
 
