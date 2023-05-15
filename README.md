@@ -73,3 +73,9 @@
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper1enwhnv85g4n99a2kzg8gey22xu6u43l4cxj824)
 - [Aura](https://explorer.stavr.tech/aura/staking/auravaloper1ucp33srru7g45ku6w207kc4hy6xd6psvmxw3xf)
 - [haqq](https://explorer.stavr.tech/haqq/staking/haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn)
+- [Gitopia](https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
+- [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
+
+
+
