@@ -76,6 +76,6 @@
 - [Gitopia](https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
 - [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
-
-
+- [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
+- [Humans](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1xq9msyjv4pdhgv0wu33wyd99wf3ffwsc35ptax)
 
