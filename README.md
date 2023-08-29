@@ -78,4 +78,4 @@
 - [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
 - [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
 - [Humans](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1xq9msyjv4pdhgv0wu33wyd99wf3ffwsc35ptax)
-
+- [Defund](https://explorer.stavr.tech/defund-testnet/staking/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) 
