@@ -80,3 +80,8 @@
 - [Humans](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1xq9msyjv4pdhgv0wu33wyd99wf3ffwsc35ptax)
 - [Defund](https://explorer.stavr.tech/defund-testnet/staking/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z)
 - [MandeNetwork](https://explorer.stavr.tech/Mande-Chain/staking/mandevaloper104v2uksujl8scw2zlzvxnutgw08vvla498fh09)
+- [Router](https://explorer.stavr.tech/Router-testnet/staking/routervaloper17qyqkp90a8l34y8arkg0yfutxcxc23cxnc2yux)
+- [Timpi](https://explorer.stavr.tech/Timpi-testnet/staking/timpitnvaloper1e3m2ka2lgh7mhhgmhcmn7cceyqjm7cwdqq3mqa)
+- [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Realio](https://explorer.stavr.tech/Realio/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4) 
+
