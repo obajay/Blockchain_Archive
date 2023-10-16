@@ -93,3 +93,4 @@
 - [Chainflip](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Transformer](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Androma](https://explorer.stavr.tech/Andromeda/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
+- [Mises](https://explorer.stavr.tech/Mises/staking/misesvaloper1dj7dyrz30ap65etcj6v55w4jtz07utaukvqc8z)
