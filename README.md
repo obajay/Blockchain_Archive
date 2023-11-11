@@ -95,3 +95,4 @@
 - [Androma](https://explorer.stavr.tech/Andromeda/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 - [Mises](https://explorer.stavr.tech/Mises/staking/misesvaloper1dj7dyrz30ap65etcj6v55w4jtz07utaukvqc8z)
 - [SAO](https://explorer.stavr.tech/Sao-Testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
+- [Nibiru](https://explorer.stavr.tech/Nibiru/staking/nibivaloper1vgh5ry6zwjp007f90wfwgung6l4z6330tmqsw4)
