@@ -96,3 +96,6 @@
 - [Mises](https://explorer.stavr.tech/Mises/staking/misesvaloper1dj7dyrz30ap65etcj6v55w4jtz07utaukvqc8z)
 - [SAO](https://explorer.stavr.tech/Sao-Testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
 - [Nibiru](https://explorer.stavr.tech/Nibiru/staking/nibivaloper1vgh5ry6zwjp007f90wfwgung6l4z6330tmqsw4)
+- [Noria](https://explorer.stavr.tech/Noria-testnet/staking/noriavaloper1kn59arxarnshpdw49yfc62rww6faknaxjkfx23)
+
+
