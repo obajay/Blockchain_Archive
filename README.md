@@ -99,3 +99,4 @@
 - [Noria](https://explorer.stavr.tech/Noria-testnet/staking/noriavaloper1kn59arxarnshpdw49yfc62rww6faknaxjkfx23)
 - [Andromedad](https://explorer.stavr.tech/Andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 - [Band](https://explorer.stavr.tech/Band-Testnet/staking/bandvaloper1x4qa7uqzwd94hwqsamejme4qsgajygyd98sk77)
+- [BonusBlock](https://explorer.stavr.tech/BonusBlock-Testnet/staking/bonusvaloper156jkdw7s0gvrl8w8w2gxgh4dujm7mhchxg9ra0)
