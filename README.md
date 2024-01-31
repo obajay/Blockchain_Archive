@@ -102,3 +102,4 @@
 - [BonusBlock](https://explorer.stavr.tech/BonusBlock-Testnet/staking/bonusvaloper156jkdw7s0gvrl8w8w2gxgh4dujm7mhchxg9ra0)
 - [Arthera](https://wallet-dev.arthera.net/validators)
 - [Opside](https://opsi.de/validator/0xb712d62b001d4d51ad0ee171d91965c9a788cec896f291bc4584359bcf565fd227aefbc268c2851b21229bed2b456754)
+- [Konstellation](https://explorer.stavr.tech/Konstellation/staking/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j)
