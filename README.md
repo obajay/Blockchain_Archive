@@ -103,3 +103,6 @@
 - [Arthera](https://wallet-dev.arthera.net/validators)
 - [Opside](https://opsi.de/validator/0xb712d62b001d4d51ad0ee171d91965c9a788cec896f291bc4584359bcf565fd227aefbc268c2851b21229bed2b456754)
 - [Konstellation](https://explorer.stavr.tech/Konstellation/staking/darcvaloper1krlfcngvstzxdy84v0vsfydefmju9wuhdnq03j)
+- [Cascadia](https://explorer.stavr.tech/Cascadia-testnet/staking/cascadiavaloper1cvw68h268ndl24qpc4rammjawj3t8cm8rmf92z)
+- [Santiment](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- 
